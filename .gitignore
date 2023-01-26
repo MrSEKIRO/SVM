@@ -1,3 +1,4 @@
-.pdf
-.rar
-.docx
+*.pdf
+*.rar
+*.docx
+*.vs
